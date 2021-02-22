@@ -3,6 +3,8 @@
 
 教材出典：[Next.js 公式チュートリアル](https://nextjs.org/learn/basics/create-nextjs-app)
 
+※メモは [TIL](https://github.com/h-yoshikawa44/til-engineer/tree/master/JavaScript/Next/memo) の方にコミット
+
 ## 環境
 - Node.js：12.18.3（10.13 以降であれば OK）
 - Next.js：10.0.7
